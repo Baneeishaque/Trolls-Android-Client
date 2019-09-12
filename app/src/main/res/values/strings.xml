@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trolls</string>
+    <string name="title_activity_trolls">Trolls</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello">Hello</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_profile">My Account</string>
+    <string name="title_pins">Pins</string>
+    <string name="title_lists">Lists</string>
+</resources>
